@@ -9,4 +9,4 @@ In order to facilitate the user to verify the applicability and effectiveness of
 ![image](https://user-images.githubusercontent.com/88143736/227984206-6c49bcb6-a27c-4e44-9c61-6fe39da7d77b.png)
 
 ## 3. Download
-The original application software program can be found from [Google Drive](https://drive.google.com/drive/folders/1An-ly9pUJFO2auqG4QIAwB_3kmhwqvea?usp=sharing).
+The original application software code can be found from [Google Drive](https://drive.google.com/drive/folders/1An-ly9pUJFO2auqG4QIAwB_3kmhwqvea?usp=sharing).
